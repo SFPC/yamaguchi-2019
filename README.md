@@ -2,17 +2,28 @@
 
 [Open call and information](https://www.ycam.jp/en/events/2019/sfpc/) 
 
+# Themes
+
+Technology as a gift
+
+Can we approach technology as a gift? For SFPC Summer 2019 in Yamaguchi, we are approaching technology and specifically computation as an expression of gratitude and care for each other. Technology doesn't have to be made by corporations. However, it's rare to find technology made for a friend as a form of gift. Through hands-on coding, hacking, playing, poetry writing, students will make gifts for each other. Students learn about the philosophy and practice of poetic computaiton, a set of tools to continue creative practice and teach after the one week program. 
+
+Curriculum as a gift
+
+We will create a social dynamic for generosity amongst teachers, students and staff. We will share what have we learned from the first six years of running SFPC. We will share the ideas and technologies that our teachers and students have been developing. We hope to inspire the students to start their own schools, studios or collectives after the program.  
+ 
 # Classes 
 
 - [The Joy of Vector Graphics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
 - Playing Well Together by Jane Friedhoff 
-- Distributed Web of Care by Taeyoon Choi 
+- [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
+- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
 - Professional development by Lauren Gardner 
 
 # Workshops 
 
-- Moss workshop by YCAM Bio Lab 
-- Movement workshop by YCAM Inter Lab 
+- A workshop by [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
+- Movement workshop by [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
 
 # Readings 
 
