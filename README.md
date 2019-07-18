@@ -15,7 +15,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 # Classes 
 
 - [The Joy of Vector Graphics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
-- Playing Well Together by Jane Friedhoff 
+- [Playing Well Together](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
 - [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
 - Professional development by Lauren Gardner 
