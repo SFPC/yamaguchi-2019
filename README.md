@@ -18,7 +18,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [Playing Well Together](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
 - [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
-- [Folder Poetry](https://github.com/melaniehoff/folderpoetry) by Melanie Hoff
+- [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
 - Professional development by Lauren Gardner 
 
 
