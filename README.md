@@ -15,7 +15,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 # Classes 
 
 - [Garden mathematics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
-- [Playing Well Together](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
+- [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
 - [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
 - [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
