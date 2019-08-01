@@ -6,7 +6,8 @@
 
 Technology as a gift
 
-Can we approach technology as a gift? For SFPC Summer 2019 in Yamaguchi, we are approaching technology and specifically computation as an expression of gratitude and care for each other. Technology doesn't have to be made by corporations. However, it's rare to find technology made for a friend as a form of gift. Through hands-on coding, hacking, playing, poetry writing, students will make gifts for each other. Students learn about the philosophy and practice of poetic computaiton, a set of tools to continue creative practice and teach after the one week program. 
+Can we approach technology as a gift? For SFPC Summer 2019 in Yamaguchi, we are approaching technology and specifically computation as an expression of gratitude and care for each other. Technology doesn't have to be made by corporations. However, it's rare to find technology made for a friend as a form of gift. Through hands-on coding, hacking, playing, poetry writing, students will make gifts for each other. Students will learn about the philosophy and practice of poetic computation, a set of tools to continue their creative practice and teach others after the one week program.
+
 
 Curriculum as a gift
 
