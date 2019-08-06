@@ -26,7 +26,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [DNA Bar Coding](https://docs.google.com/document/d/1-qjhd9_2v1QCWNgN50kN6mJspSaBJaAH_rZHD1GdtDM/edit) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
 - [Gesture inspired by Hand Sign](https://docs.google.com/document/d/1s37prXJkhoXLbH0G7wXPp3sgfNRImyz85U1N4swh-QQ/edit) workshop by Richi Owaki, Natsumi Wada and [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
 
-![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-1.jpg)
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class.JPG)
 
 ![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-2.jpg) 
 
