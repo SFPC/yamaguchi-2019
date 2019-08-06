@@ -22,22 +22,15 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
 - [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
 - [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
-- Professional development by Lauren Gardner 
-
-
-![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-1.svg)
-
-![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-2.svg)
-
- 
-
-
-# Workshops 
-
+- Final showcase and professional development by Lauren Gardner 
 - [DNA Bar Coding](https://docs.google.com/document/d/1-qjhd9_2v1QCWNgN50kN6mJspSaBJaAH_rZHD1GdtDM/edit) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
 - [Gesture inspired by Hand Sign](https://docs.google.com/document/d/1s37prXJkhoXLbH0G7wXPp3sgfNRImyz85U1N4swh-QQ/edit) workshop by Richi Owaki, Natsumi Wada and [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
 
-![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-3.svg)
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-1.jpg)
+
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-2.jpg) 
+
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-3.jpg)
 
 # Readings 
 
