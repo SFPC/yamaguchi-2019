@@ -36,5 +36,6 @@ We will create a social dynamic for generosity amongst teachers, students and st
 
 - [Protocol: How Control Exists After Decentralization](https://mitpress.mit.edu/books/protocol) by Alexnader R. Galloway, Chapter 1. Physical Media 
 - [CODE: The Hidden Language of Computer Hardware and Software](http://www.charlespetzold.com/code/) by Charlies Petzold, Chapter 2. Code and Combinations & Chapter 18. From Abaci to Chips
-- [The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins](https://press.princeton.edu/titles/10581.html) by Anna Lowenhaupt Tsing 
+- [General Will 2.0](https://www.amazon.com/General-Will-2-0-Rousseau-Google/dp/1935654748/ref=sr_1_1?keywords=General+Will+2.0&qid=1564990565&s=gateway&sr=8-1)
+- [Japan the Beautiful and Myself](https://www.nobelprize.org/prizes/literature/1968/kawabata/lecture/)
 
