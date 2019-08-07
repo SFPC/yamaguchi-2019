@@ -20,7 +20,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [Garden mathematics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
 - [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
-- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
+- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/blob/ycam/README.md) by Taeyoon Choi 
 - [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
 - Final showcase and professional development by Lauren Gardner 
 - [DNA Bar Coding](https://docs.google.com/document/d/1-qjhd9_2v1QCWNgN50kN6mJspSaBJaAH_rZHD1GdtDM/edit) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
