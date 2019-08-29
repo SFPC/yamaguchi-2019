@@ -32,9 +32,13 @@ We will create a social dynamic for generosity amongst teachers, students and st
 
 ![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class-3.jpg)
 
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/keina.jpg)
+
 # Readings 
 
 - [Protocol: How Control Exists After Decentralization](https://mitpress.mit.edu/books/protocol) by Alexnader R. Galloway, Chapter 1. Physical Media 
 - [CODE: The Hidden Language of Computer Hardware and Software](http://www.charlespetzold.com/code/) by Charlies Petzold, Chapter 2. Code and Combinations & Chapter 18. From Abaci to Chips
 - [The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins](https://press.princeton.edu/titles/10581.html) by Anna Lowenhaupt Tsing 
 
+
+![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/theme.jpg)
