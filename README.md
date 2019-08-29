@@ -20,7 +20,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [Garden mathematics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
 - [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
-- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/tree/codesocieties) by Taeyoon Choi 
+- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/blob/ycam/README.md) by Taeyoon Choi 
 - [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
 - Final showcase and professional development by Lauren Gardner 
 - [DNA Bar Coding](https://docs.google.com/document/d/1-qjhd9_2v1QCWNgN50kN6mJspSaBJaAH_rZHD1GdtDM/edit) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
@@ -38,7 +38,8 @@ We will create a social dynamic for generosity amongst teachers, students and st
 
 - [Protocol: How Control Exists After Decentralization](https://mitpress.mit.edu/books/protocol) by Alexnader R. Galloway, Chapter 1. Physical Media 
 - [CODE: The Hidden Language of Computer Hardware and Software](http://www.charlespetzold.com/code/) by Charlies Petzold, Chapter 2. Code and Combinations & Chapter 18. From Abaci to Chips
-- [The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins](https://press.princeton.edu/titles/10581.html) by Anna Lowenhaupt Tsing 
+- [General Will 2.0](https://www.amazon.com/General-Will-2-0-Rousseau-Google/dp/1935654748/ref=sr_1_1?keywords=General+Will+2.0&qid=1564990565&s=gateway&sr=8-1)
+- [Japan the Beautiful and Myself](https://www.nobelprize.org/prizes/literature/1968/kawabata/lecture/)
 
 
 ![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/theme.jpg)
