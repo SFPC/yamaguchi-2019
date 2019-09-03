@@ -16,10 +16,23 @@ Curriculum as a gift
 We will create a social dynamic for generosity amongst teachers, students and staff. We will share what have we learned from the first six years of running SFPC. We will share the ideas and technologies that our teachers and students have been developing. We hope to inspire the students to start their own schools, studios or collectives after the program.  
 
 
-# Students
+# People
 
-[Meet the students and staff](https://medium.com/sfpc/meet-the-students-of-sfpc-summer-2019-in-yamaguchi-a9e597de530c) 
-[Code of Conduct](https://github.com/SFPC/yamaguchi-2019/blob/master/code-of-conduct.md)
+- [Meet the students and staff](https://medium.com/sfpc/meet-the-students-of-sfpc-summer-2019-in-yamaguchi-a9e597de530c) 
+- [Code of Conduct](https://github.com/SFPC/yamaguchi-2019/blob/master/code-of-conduct.md)
+
+
+# Classes 
+
+
+- [Garden mathematics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
+- [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
+- [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
+- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/blob/ycam/README.md) by Taeyoon Choi 
+- [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
+- Final showcase and professional development by Lauren Gardner 
+- [DNA Bar Coding](https://github.com/konnokeina/SFPCYCAM2019/blob/master/DNAbarCODING.md) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
+- [Gesture inspired by Hand Sign](https://github.com/konnokeina/SFPCYCAM2019/blob/master/Gestures%20inspired%20by%20hand%20sign.md) workshop by Richi Owaki, Natsumi Wada and [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
 
  
 # Timetable
@@ -76,19 +89,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 |       |      | 15:00-17:20 | Final showcase-Panel Discussion                | Studio B |
 |       |      | 17:30-20:00 | Graduation Party                               | Studio D |
 
-
-# Classes 
-
-
-- [Garden mathematics](https://github.com/robbykraft/classes/blob/master/ycam.md) by Robby Kraft
-- [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
-- [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
-- [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/blob/ycam/README.md) by Taeyoon Choi 
-- [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
-- Final showcase and professional development by Lauren Gardner 
-- [DNA Bar Coding](https://github.com/konnokeina/SFPCYCAM2019/blob/master/DNAbarCODING.md) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
-- [Gesture inspired by Hand Sign](https://github.com/konnokeina/SFPCYCAM2019/blob/master/Gestures%20inspired%20by%20hand%20sign.md) workshop by Richi Owaki, Natsumi Wada and [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
-
+ 
 
 ![](https://raw.githubusercontent.com/SFPC/yamaguchi-2019/master/images/class.JPG)
 
