@@ -19,9 +19,9 @@ We will create a social dynamic for generosity amongst teachers, students and st
 # Students
 
 [Meet the students and staff](https://medium.com/sfpc/meet-the-students-of-sfpc-summer-2019-in-yamaguchi-a9e597de530c) 
-# Schedule
+[Code of Conduct](https://github.com/SFPC/yamaguchi-2019/blob/master/code-of-conduct.md)
 
-[Timetable](https://github.com/konnokeina/SFPCYCAM2019/blob/master/Timetable.md)
+ 
 # Timetable
 
 | date  |      | time        |                                                | venue    |
