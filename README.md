@@ -71,7 +71,8 @@ We will create a social dynamic for generosity amongst teachers, students and st
 | 09-09 | mon  | 09:30-10:00 | WS: Richi "Gestures inspired by hand sign"     | Foyer    |
 | DAY5  |      | 10:00-13:00 | Class: Melanie "Peer to Peer Poetry"           | Studio B |
 |       |      | 13:00-14:30 | Lunch Break / Office Hour: Melanie             | Studio D |
-|       |      | 14:30-17:30 | Class: Jane "Playing The World"                | Studio B |
+|       |      | 14:30-15:10 | Presentation: Takuya "Future sport"            | Studio B |
+|       |      | 15:10-17:30 | Class: Jane "Playing The World"                | Studio B |
 |       |      | 17:30-18:00 | Check in: Lauren with Presentation on Presentations from Melanie| Studio B |
 |       |      | 18:00-20:00 | Family Dinner                                  | Studio D |
 |       |      | 20:00-21:30 | Studio Time                                    | Studio B |
