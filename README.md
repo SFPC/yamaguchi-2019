@@ -82,12 +82,12 @@ We will create a social dynamic for generosity amongst teachers, students and st
 |       |      | 13:00-14:30 | Lunch Break / Office Hour: Robby               | Studio D |
 |       |      | 14:30-17:30 | Class: Taeyoon "Distributed Web of Care"       | Studio B |
 |       |      | 17:30-18:00 | Check in: Lauren                               | Studio B |
-|       |      | 18:00-20:00 | Dinner Break                                   | Studio D |
+|       |      | 18:00-20:00 | Dinner Break (no family dinner)/ Slides due at 8 p.m.    | Studio D |
 |       |      | 20:00-21:30 | Studio Time                                    | Studio B |
 |       |      |             |                                                |          |
 | 09-11 | wed  | 10:00-13:00 | Preparation for Final showcase: Lauren         | Studio B |
-| DAY7  |      | 13:00-15:00 | Final showcase-Exhibition Time                 | Studio B |
-|       |      | 15:00-17:20 | Final showcase-Panel Discussion                | Studio B |
+| DAY7  |      | 13:00-15:00 | Final showcase- Student talks                  | Studio B |
+|       |      | 15:00-17:20 | Final showcase-Exhibition Time                 | Studio B |
 |       |      | 17:30-20:00 | Graduation Party                               | Studio D |
 
  
