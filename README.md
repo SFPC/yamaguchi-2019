@@ -29,7 +29,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 - [Playing The World](https://github.com/friej715/SFPC-YCAM) by Jane Friedhoff 
 - [Handmade Computer](http://avant.org/project/hello-world/) by Taeyoon Choi 
 - [Distributed Web of Care](https://github.com/tchoi8/distributedwebofcare/blob/ycam/README.md) by Taeyoon Choi 
-- [Peer to Peer Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
+- [Peer to Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) by Melanie Hoff
 - Final showcase and professional development by Lauren Gardner 
 - [DNA Bar Coding](https://github.com/konnokeina/SFPCYCAM2019/blob/master/DNAbarCODING.md) workshop by Takayuki Ito and [YCAM Bio Research](https://www.ycam.jp/en/projects/ycam-bio-research/)
 - [Gesture inspired by Hand Sign](https://github.com/konnokeina/SFPCYCAM2019/blob/master/Gestures%20inspired%20by%20hand%20sign.md) workshop by Richi Owaki, Natsumi Wada and [YCAM Inter Lab](https://special.ycam.jp/interlab/en.html)
@@ -51,7 +51,8 @@ We will create a social dynamic for generosity amongst teachers, students and st
 | 09-05 | thu  | 09:30-10:00 | WS: Richi "Gestures inspired by hand sign"     | Foyer    |
 | DAY2  |      | 10:00-13:00 | Class: Taeyoon "Handmade Computer"             | Studio B |
 |       |      | 13:00-14:30 | Lunch Break / Office Hour: Taeyoon             | Studio D |
-|       |      | 14:30-17:30 | Class: Melanie "Peer to Peer Poetry"           | Studio B |
+|       |      | 14:30-17:30 | Class: Melanie "
+Peer Poetry"           | Studio B |
 |       |      | 17:30-18:00 | Check in: Lauren                               | Studio B |
 |       |      | 18:00-20:00 | Family Dinner                                  | Studio D |
 |       |      | 20:00-21:30 | Studio Time                                    | Studio B |
