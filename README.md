@@ -51,8 +51,7 @@ We will create a social dynamic for generosity amongst teachers, students and st
 | 09-05 | thu  | 09:30-10:00 | WS: Richi "Gestures inspired by hand sign"     | Foyer    |
 | DAY2  |      | 10:00-13:00 | Class: Taeyoon "Handmade Computer"             | Studio B |
 |       |      | 13:00-14:30 | Lunch Break / Office Hour: Taeyoon             | Studio D |
-|       |      | 14:30-17:30 | Class: Melanie "
-Peer Poetry"           | Studio B |
+|       |      | 14:30-17:30 | Class: Melanie "Peer to Peer Poetry"           | Studio B |
 |       |      | 17:30-18:00 | Check in: Lauren                               | Studio B |
 |       |      | 18:00-20:00 | Family Dinner                                  | Studio D |
 |       |      | 20:00-21:30 | Studio Time                                    | Studio B |
